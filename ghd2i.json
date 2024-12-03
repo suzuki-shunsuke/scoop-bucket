@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/suzuki-shunsuke/ghd2i/releases/download/v0.1.0/ghd2i_windows_amd64.zip",
+            "url": "https://github.com/suzuki-shunsuke/ghd2i/releases/download/v0.1.1/ghd2i_windows_amd64.zip",
             "bin": [
                 "ghd2i.exe"
             ],
-            "hash": "aa6d1973e0ea6fa83295ef2c1e6937dddb6c08251be6c249a5aff6e461e2505b"
+            "hash": "1088cc651e92863c22d66073829f444c8f2a541eb6595d79c87d2cab5e7469f8"
         },
         "arm64": {
-            "url": "https://github.com/suzuki-shunsuke/ghd2i/releases/download/v0.1.0/ghd2i_windows_arm64.zip",
+            "url": "https://github.com/suzuki-shunsuke/ghd2i/releases/download/v0.1.1/ghd2i_windows_arm64.zip",
             "bin": [
                 "ghd2i.exe"
             ],
-            "hash": "4f845cb76b09cf56b419c7727a85e3bcd476e245f16c02f9c95b7bc9ab9579db"
+            "hash": "acbddc153db8d302fd655fec69f97adae983cf8e0f093edae669a1eed094f9a1"
         }
     },
     "license": "MIT",
