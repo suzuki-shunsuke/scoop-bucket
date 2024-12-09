@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/suzuki-shunsuke/sort-issue-template/releases/download/v0.1.0/sort-issue-template_windows_amd64.zip",
+            "bin": [
+                "sort-issue-template.exe"
+            ],
+            "hash": "f2262ecdd3d4db2b0f721abaf48f01885eb027b70138e871bfa7a7fac909c683"
+        },
+        "arm64": {
+            "url": "https://github.com/suzuki-shunsuke/sort-issue-template/releases/download/v0.1.0/sort-issue-template_windows_arm64.zip",
+            "bin": [
+                "sort-issue-template.exe"
+            ],
+            "hash": "e5ed3f01a647492a8e5ada5dbaaf59b13dff3d4fb736b5b95ded5441e44a1c1f"
+        }
+    },
+    "license": "MIT",
+    "description": "Create GitHub Issues from GitHub Discussions\n"
+}
