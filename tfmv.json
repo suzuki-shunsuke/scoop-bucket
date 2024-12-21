@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/suzuki-shunsuke/tfmv/releases/download/v0.1.0/tfmv_windows_amd64.zip",
+            "bin": [
+                "tfmv.exe"
+            ],
+            "hash": "b29e9a09f015320a2edea2e05026dadd9b98a684462f73a6fe1ff31f89e99efa"
+        },
+        "arm64": {
+            "url": "https://github.com/suzuki-shunsuke/tfmv/releases/download/v0.1.0/tfmv_windows_arm64.zip",
+            "bin": [
+                "tfmv.exe"
+            ],
+            "hash": "f229d680ed578edc93b37a31ea4868deff6c0f12999ef64061206b3c7d7d6569"
+        }
+    },
+    "license": "MIT",
+    "description": "Create GitHub Issues from GitHub Discussions\n"
+}
