@@ -1,19 +1,19 @@
 {
-    "version": "0.1.4",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/suzuki-shunsuke/tfmv/releases/download/v0.1.4/tfmv_windows_amd64.zip",
+            "url": "https://github.com/suzuki-shunsuke/tfmv/releases/download/v0.2.0/tfmv_windows_amd64.zip",
             "bin": [
                 "tfmv.exe"
             ],
-            "hash": "30f7a45efcdda0b9044cebc1a70b8de976e5bb4ef5939924714d25e584be5b14"
+            "hash": "083f5b50bfd581b56bb64a65622f710d13c64224bed54cea5f98e1316680c9b5"
         },
         "arm64": {
-            "url": "https://github.com/suzuki-shunsuke/tfmv/releases/download/v0.1.4/tfmv_windows_arm64.zip",
+            "url": "https://github.com/suzuki-shunsuke/tfmv/releases/download/v0.2.0/tfmv_windows_arm64.zip",
             "bin": [
                 "tfmv.exe"
             ],
-            "hash": "e238a842794952512b873b650f5ccf59f9320a91675b0f3c9d4a831630cd33f1"
+            "hash": "fd94f82f4da2ffc164eea933a2454e37886903c1d8f2b983f3f5402b410a2184"
         }
     },
     "license": "MIT",
