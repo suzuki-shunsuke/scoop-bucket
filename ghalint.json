@@ -1,19 +1,19 @@
 {
-    "version": "1.2.4",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/suzuki-shunsuke/ghalint/releases/download/v1.2.4/ghalint_1.2.4_windows_amd64.zip",
+            "url": "https://github.com/suzuki-shunsuke/ghalint/releases/download/v1.3.0/ghalint_1.3.0_windows_amd64.zip",
             "bin": [
                 "ghalint.exe"
             ],
-            "hash": "82ff334c39ec4938c109d4107ccbd0dfaa3399c4d44c7c913dbb734bad103fbc"
+            "hash": "89b64fd0ee121d45a0ca679d636d1665412d46a1504310b20145654f4e66e9f8"
         },
         "arm64": {
-            "url": "https://github.com/suzuki-shunsuke/ghalint/releases/download/v1.2.4/ghalint_1.2.4_windows_arm64.zip",
+            "url": "https://github.com/suzuki-shunsuke/ghalint/releases/download/v1.3.0/ghalint_1.3.0_windows_arm64.zip",
             "bin": [
                 "ghalint.exe"
             ],
-            "hash": "534d0a200e0186c5cda03277f2d1a65d7cc35cc1b58dc8dc7b9e73ca8c708c00"
+            "hash": "c69b1f420586e30f2d4c9b2718bf1bf57494d50c0881684a65897e6798bb5627"
         }
     },
     "license": "MIT",
