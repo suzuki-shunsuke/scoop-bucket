@@ -1,19 +1,19 @@
 {
-    "version": "2.2.1",
+    "version": "3.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/suzuki-shunsuke/pinact/releases/download/v2.2.1/pinact_windows_amd64.zip",
+            "url": "https://github.com/suzuki-shunsuke/pinact/releases/download/v3.0.0/pinact_windows_amd64.zip",
             "bin": [
                 "pinact.exe"
             ],
-            "hash": "c9c647c28094fde48e4e73ec9f56d8d60b6245d33a78ff211dea1d3c4f6df0c6"
+            "hash": "9f47dd66de84974ded2834d14104452efe3e6f5d686122a8e7e9167777ef9a37"
         },
         "arm64": {
-            "url": "https://github.com/suzuki-shunsuke/pinact/releases/download/v2.2.1/pinact_windows_arm64.zip",
+            "url": "https://github.com/suzuki-shunsuke/pinact/releases/download/v3.0.0/pinact_windows_arm64.zip",
             "bin": [
                 "pinact.exe"
             ],
-            "hash": "4b2c15bd4e54263229e565809e400357ee1cb52846311a034b25ea2592351751"
+            "hash": "eb99b69182b43c7743c7b7ab4886bd06c9a60e236b17c323fb39cace2eb7016f"
         }
     },
     "license": "MIT",
