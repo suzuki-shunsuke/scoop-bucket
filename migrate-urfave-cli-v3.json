@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/suzuki-shunsuke/migrate-urfave-cli-v3/releases/download/v0.1.0/migrate-urfave-cli-v3_windows_amd64.zip",
+            "bin": [
+                "migrate-urfave-cli-v3.exe"
+            ],
+            "hash": "de7f0e4b1d24c455e152a396cd71c09e9e7ceac4f8e435e83822005b6abeffa3"
+        },
+        "arm64": {
+            "url": "https://github.com/suzuki-shunsuke/migrate-urfave-cli-v3/releases/download/v0.1.0/migrate-urfave-cli-v3_windows_arm64.zip",
+            "bin": [
+                "migrate-urfave-cli-v3.exe"
+            ],
+            "hash": "25a2b37b602991f46cd498b7167d09c3b17b90ee446cd0400595b480448f0f58"
+        }
+    },
+    "license": "MIT",
+    "description": "Migrate github.com/urfave/cli/v2 to v3\n"
+}
