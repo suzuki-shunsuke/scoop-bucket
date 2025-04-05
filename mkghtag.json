@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/suzuki-shunsuke/mkghtag/releases/download/v0.1.5/mkghtag_windows_amd64.zip",
+            "url": "https://github.com/suzuki-shunsuke/mkghtag/releases/download/v0.1.6/mkghtag_windows_amd64.zip",
             "bin": [
                 "mkghtag.exe"
             ],
-            "hash": "e320fbda94416818556b45b16ef3a2e97366df38d53267b30bce73753e925282"
+            "hash": "354fec28b984aa706fe71253ab03fb178697c43780cfbd2ab8a5c371d6dcaab8"
         },
         "arm64": {
-            "url": "https://github.com/suzuki-shunsuke/mkghtag/releases/download/v0.1.5/mkghtag_windows_arm64.zip",
+            "url": "https://github.com/suzuki-shunsuke/mkghtag/releases/download/v0.1.6/mkghtag_windows_arm64.zip",
             "bin": [
                 "mkghtag.exe"
             ],
-            "hash": "354be3fcb9f703170e1a3e786eaf86011affebbcc267c602fa497575d0eab5e7"
+            "hash": "1305e66a09183c166b4a5cab76d5067ce3f3e239b2a957bef29a5f1308d24e2d"
         }
     },
     "license": "MIT",
