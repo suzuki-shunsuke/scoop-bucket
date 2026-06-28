@@ -1,19 +1,19 @@
 {
-    "version": "0.2.8",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/suzuki-shunsuke/ghtkn/releases/download/v0.2.8/ghtkn_windows_amd64.zip",
+            "url": "https://github.com/suzuki-shunsuke/ghtkn/releases/download/v0.3.0/ghtkn_windows_amd64.zip",
             "bin": [
                 "ghtkn.exe"
             ],
-            "hash": "d2d5f85234b3ba8afa9f0174cde71160fd43ca5fcbfdc92fe641be6149d89a4a"
+            "hash": "9ac6ae945df5d8e52e21e72e131e5cb8f09361d4d5e074cd381986ff9a10ad6e"
         },
         "arm64": {
-            "url": "https://github.com/suzuki-shunsuke/ghtkn/releases/download/v0.2.8/ghtkn_windows_arm64.zip",
+            "url": "https://github.com/suzuki-shunsuke/ghtkn/releases/download/v0.3.0/ghtkn_windows_arm64.zip",
             "bin": [
                 "ghtkn.exe"
             ],
-            "hash": "bc3cf9181d52174c2bd650eaeddc7bd9ebd03d09902ea5712383dc49a565ca1b"
+            "hash": "b55842340a10a1c67d2fa593c05be60c8d79c02294c469aecab3373e4eab79cd"
         }
     },
     "license": "MIT",
